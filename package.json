@@ -1,0 +1,29 @@
+{
+  "name": "zoomClone",
+  "version": "1.0.0",
+  "description": "WebSockets, SocketIO, WebRTC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gloomydumber/zoom_clone.git"
+  },
+  "keywords": [],
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gloomydumber/zoom_clone/issues"
+  },
+  "homepage": "https://github.com/gloomydumber/zoom_clone#readme",
+  "devDependencies": {
+    "@babel/core": "^7.15.0",
+    "@babel/node": "^7.14.9",
+    "@babel/preset-env": "^7.15.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12",
+    "pug": "^3.0.2"
+  }
+}
